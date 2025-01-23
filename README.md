@@ -4,7 +4,7 @@ Hello! I'm Mohammed Javid Uddin, a passionate and driven **Computer Science stud
 
 ---
 
-## 🚀 **A Few Projects**
+## 🚀 **A Few Popular Projects**
 
 ### [Supachat: A Modern Chat Application](https://github.com/javud/supachat)  
 **Technologies:** React, Node.js, Supabase  
