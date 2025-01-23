@@ -1,6 +1,6 @@
-# Welcome to My GitHub Portfolio! 👋
+# Howdy! 👋
 
-Hello! I'm Mohammed Javid Uddin, a passionate and driven **Computer Science student at the University of Illinois Chicago** with a strong focus on **software engineering**. My portfolio showcases a variety of projects where I've applied my skills in modern frameworks, databases, and algorithms to build impactful applications. I'm currently seeking a **software engineering role** where I can contribute, grow, and innovate.
+My name is Mohammed J. Uddin, and I'm a passionate and driven **Computer Science student at the University of Illinois Chicago** with a strong focus on **software engineering**. My portfolio showcases a variety of projects where I've applied my skills in modern frameworks, databases, and algorithms to build impactful applications. I'm currently seeking a **software engineering role** where I can contribute, grow, and innovate.
 
 ---
 
