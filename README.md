@@ -6,6 +6,9 @@ My name is Mohammed J. Uddin, and I'm a passionate and driven **Computer Science
 
 ## 🚀 **A Few Popular Projects**
 
+### [File Compressor: Huffman Encoding](https://github.com/javud/filecompressor)
+**Technologies:** Python, Heap Queue, Bit Manipulation
+
 ### [Supachat: A Modern Chat Application](https://github.com/javud/supachat)  
 **Technologies:** React, Node.js, Supabase  
 
