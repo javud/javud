@@ -1,18 +1,21 @@
 # Howdy! 👋
 
-My name is Mohammed J. Uddin, and I'm a passionate and driven **Computer Science student at the University of Illinois Chicago** with a strong focus on **software engineering**. My portfolio showcases a variety of projects where I've applied my skills in modern frameworks, databases, and algorithms to build impactful applications. I'm currently seeking a **software engineering role** where I can contribute, grow, and innovate.
+My name is Mohammed J. Uddin, and I'm a passionate and driven **Computer Science graduate from the University of Illinois Chicago** with a strong focus on **software engineering**. My portfolio showcases a variety of projects where I've applied my skills in modern frameworks, databases, and algorithms to build impactful applications. 
 
 ---
 
 ## 🚀 **A Few Popular Projects**
 
+### [repol.ink: Custom GitHub Repo URLs](https://github.com/javud/repol.ink)
+**Technologies:** Next.js, React, Flask, Supabase
+
+### [SweetHomeFinder: Find Your Perfect Pet](https://github.com/javud/sweethomefinder)  
+**Technologies:** React, Node.js, Supabase  
+
 ### [File Compressor: Huffman Encoding](https://github.com/javud/filecompressor)
 **Technologies:** Python, Heap Queue, Bit Manipulation
 
 ### [Supachat: A Modern Chat Application](https://github.com/javud/supachat)  
-**Technologies:** React, Node.js, Supabase  
-
-### [SweetHomeFinder: Find Your Perfect Pet](https://github.com/javud/sweethomefinder)  
 **Technologies:** React, Node.js, Supabase  
 
 ### [University of Illinois Campus Map Shortest Path Navigator](https://github.com/javud/campus-path-finder)  
